@@ -1,0 +1,3 @@
+/home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/examen_recursivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/examen_recursivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/examen_recursivo/cmake-build-debug/CMakeFiles/examen_recursivo.dir

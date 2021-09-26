@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ejemplo3Struct.dir/main.cpp.o -o Ejemplo3Struct 

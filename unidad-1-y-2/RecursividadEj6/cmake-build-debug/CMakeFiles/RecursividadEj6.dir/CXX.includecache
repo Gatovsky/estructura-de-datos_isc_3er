@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/RecursividadEj6/main.cpp
+bits/stdc++.h
+-
+

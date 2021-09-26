@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MostrarInvertido.dir/main.cpp.o -o MostrarInvertido 

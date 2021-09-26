@@ -1,0 +1,4 @@
+/home/hector/opt/clion2021/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/Ejemplo1Struct
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hector/estructura-de-datos_isc_3er/unidad-1-y-2/Ejemplo1Struct/cmake-build-debug
