@@ -1,0 +1,3 @@
+/home/hector/estructura-de-datos_isc_3er/unidad-3-y-4/Pilas2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hector/estructura-de-datos_isc_3er/unidad-3-y-4/Pilas2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hector/estructura-de-datos_isc_3er/unidad-3-y-4/Pilas2/cmake-build-debug/CMakeFiles/Pilas2.dir

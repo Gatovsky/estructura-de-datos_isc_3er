@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Pilas1.dir/main.cpp.o -o Pilas1 
