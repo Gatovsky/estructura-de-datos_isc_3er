@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Cola1.dir/main.cpp.o -o Cola1 
