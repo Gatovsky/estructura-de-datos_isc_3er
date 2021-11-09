@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/expo_burbuja.dir/main.cpp.o -o expo_burbuja 
