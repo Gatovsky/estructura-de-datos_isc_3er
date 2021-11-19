@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hector/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/main.cpp" "/home/hector/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/cmake-build-debug/CMakeFiles/expo_burbuja.dir/main.cpp.o"
+  "/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/main.cpp" "/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/cmake-build-debug/CMakeFiles/expo_burbuja.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

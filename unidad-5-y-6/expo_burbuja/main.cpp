@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void burbujitaMax2Min(int array[], const int lon){
+void burbujitaV2(int array[], const int lon){
     int aux=0;
     for(int i=0; i<lon;i++){
-        for(int j=0; j<lon; j++){
-            if(array[i] > array[j]){
+        for(int j=0; j<i; j++){
+            if(array[i] < array[j]){
                 aux= array[i];
                 array[i] = array[j];
                 array[j] = aux;
@@ -14,7 +14,7 @@ void burbujitaMax2Min(int array[], const int lon){
     }
 }
 
-void burbujitaMin2Max(int array[], const int lon){
+void burbujitaV1(int array[], const int lon){
     int aux=0;
     for(int i=lon-1; i>0; i--){
         for(int j=0; j<i; j++){
@@ -32,9 +32,10 @@ int main() {
     int lon= sizeof array/ sizeof array[0];
     //string a[] = {"1d", "ttr", "trrree", "887"};
 
-    burbujitaMax2Min(array, lon);
-    burbujitaMin2Max(array2, lon);
+    burbujitaV2(array, lon);
+    burbujitaV1(array2, lon);
 
+    cout <<endl;
     for(auto i: array){
         cout << i << " ";
     }

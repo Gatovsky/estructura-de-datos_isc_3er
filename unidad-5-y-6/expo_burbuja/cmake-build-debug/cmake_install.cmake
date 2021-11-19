@@ -1,4 +1,4 @@
-# Install script for directory: /home/hector/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja
+# Install script for directory: /home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hector/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/expo_burbuja/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
