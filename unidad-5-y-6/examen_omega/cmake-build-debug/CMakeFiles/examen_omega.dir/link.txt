@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/examen_omega.dir/main.cpp.o -o examen_omega 

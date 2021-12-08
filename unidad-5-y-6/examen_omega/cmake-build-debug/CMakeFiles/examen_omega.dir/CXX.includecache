@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/examen_omega/main.cpp
+bits/stdc++.h
+-
+

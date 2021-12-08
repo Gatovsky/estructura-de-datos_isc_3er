@@ -1,0 +1,3 @@
+/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/examen_omega/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/examen_omega/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hra-SuSe/estructura-de-datos_isc_3er/unidad-5-y-6/examen_omega/cmake-build-debug/CMakeFiles/examen_omega.dir
